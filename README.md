@@ -6,6 +6,10 @@ The bot takes input: of this main/dish type.
 The bot can hold a simple conversion and reminds the user, that it is a bot.
 The bot then queries the Spoonacular API and returns a recipe based on the user input. 
 
+## Chatbot
+![chatbot](chatbotscreenshot.png)
+
+
 ## Limitations
 The bot has limited responses.
 The bot cannot handle requests to the API in the form of a list
